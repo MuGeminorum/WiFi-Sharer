@@ -671,7 +671,7 @@ Partial Class Sharer
         Me.ResetButton.Name = "ResetButton"
         Me.ResetButton.Size = New System.Drawing.Size(118, 49)
         Me.ResetButton.TabIndex = 9
-        Me.ResetButton.Text = "Restore"
+        Me.ResetButton.Text = "Reset"
         Me.ResetButton.UseVisualStyleBackColor = False
         '
         'DisButton

@@ -23,7 +23,7 @@ Module UpdateIntConnState
     End Function
 
     Public Function NetworkAlive() As Integer
-        Return Ping("203.188.200.67") '61.135.169.121  
+        Return Ping("13.107.21.200")
     End Function
 
     Public Function FontColor(ByVal netype As Integer) As Color
