@@ -32,8 +32,8 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 
 [Flat icon set](https://github.com/zigzagbob/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/).
 
-`Sharer` project use source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/) which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
+`Sharer` project uses source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/) which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
 All other source code files are licensed under [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0).
 
-If you want make any modification on these source codes while keeping new codes not protected by LGPL-3.0, please contact me for a sublicense instead.
+If you want make any modification on these source codes while keeping new codes unprotected by LGPL-3.0, please contact me for a sublicense instead.
