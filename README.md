@@ -17,7 +17,7 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 ## Usage ##
 
  1. Download and decompress the package of software.
- 2. Double click `Sharer.exe`.
+ 2. Run `Sharer.exe` as admin.
 
 ## Build ##
 
@@ -36,4 +36,4 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 
 All other source code files are licensed under [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0).
 
-If you want make any modification on these source codes while keeping new codes unprotected by LGPL-3.0, please contact me for a sublicense instead.
+If you want to make any modification on these source codes while keeping new codes unprotected by LGPL-3.0, please contact me for a sublicense instead.
