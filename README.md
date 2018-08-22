@@ -30,6 +30,8 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 
 ![enter image description here](http://www.gnu.org/graphics/lgplv3-147x51.png)
 
+[Flat icon set](https://github.com/zigzagbob/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/).
+
 `Sharer` project use source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/) which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
 All other source code files are licensed under [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0).
