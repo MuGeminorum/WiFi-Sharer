@@ -21,7 +21,7 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 
 ## Build ##
 
- 1. Clone the repo using Git.
+ 1. Clone the repo by Git.
  2. Install Microsoft Visual Studio 2010 / 2013.
  3. Open `Sharer.sln` as admin.
  4. Perform Build action.
