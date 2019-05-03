@@ -8,7 +8,7 @@ Sharer
 
 Software of Wi-Fi hotspot for Windows laptops
 
-![LE interface](https://github.com/zigzagbob/zigzagbob.github.io/raw/master/RmPNG/sharer.PNG)
+![LE interface](https://github.com/zigzagbob/Sharer/raw/master/cover/sharer.PNG)
 
 ## Download ##
 
