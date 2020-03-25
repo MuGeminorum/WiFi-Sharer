@@ -1,18 +1,18 @@
 Sharer
 ===============
 
-[![license](https://img.shields.io/github/license/zigzagbob/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/zigzagbob/Sharer.svg)](https://ci.appveyor.com/project/zigzagbob/Sharer)
-[![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/Sharer/total.svg)](https://github.com/zigzagbob/Sharer/releases)
-[![GitHub release](https://img.shields.io/github/release/zigzagbob/Sharer.svg)](https://github.com/zigzagbob/Sharer/releases/latest)
+[![license](https://img.shields.io/github/license/george-chou/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/Sharer.svg)](https://ci.appveyor.com/project/george-chou/Sharer)
+[![Github All Releases](https://img.shields.io/github/downloads/george-chou/Sharer/total.svg)](https://github.com/george-chou/Sharer/releases)
+[![GitHub release](https://img.shields.io/github/release/george-chou/Sharer.svg)](https://github.com/george-chou/Sharer/releases/latest)
 
 Software of Wi-Fi hotspot for Windows laptops
 
-![LE interface](https://github.com/zigzagbob/Sharer/raw/master/cover/sharer.PNG)
+![LE interface](https://github.com/george-chou/Sharer/raw/master/cover/sharer.PNG)
 
 ## Download ##
 
-Download available at <https://github.com/zigzagbob/Sharer/releases>.
+Download available at <https://github.com/george-chou/Sharer/releases>.
 
 ## Usage ##
 
@@ -30,7 +30,7 @@ Download available at <https://github.com/zigzagbob/Sharer/releases>.
 
 ![enter image description here](http://www.gnu.org/graphics/lgplv3-147x51.png)
 
-[Flat icon set](https://github.com/zigzagbob/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/).
+[Flat icon set](https://github.com/george-chou/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/).
 
 `Sharer` project uses source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/) which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
