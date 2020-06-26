@@ -5,7 +5,7 @@
 [![CI](https://github.com/george-chou/Sharer/workflows/CI/badge.svg)](https://github.com/george-chou/Sharer/actions)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/george-chou/Sharer/v2.1/total)](https://github.com/george-chou/Sharer/releases)
 
-Software of Wi-Fi hotspot for Windows laptops
+The software of Wi-Fi hotspot for Windows laptops
 
 <img width="400" src=".github/sharer.PNG"/>
 
