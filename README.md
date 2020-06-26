@@ -9,7 +9,7 @@ Sharer
 
 Software of Wi-Fi hotspot for Windows laptops
 
-![LE interface](.github/sharer.PNG)
+<img width="400" src=".github/sharer.PNG"/>
 
 ## Download ##
 
