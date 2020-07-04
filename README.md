@@ -7,7 +7,7 @@
 
 The software of Wi-Fi hotspot for Windows laptops
 
-<img width="400" src=".github/sharer.PNG"/>
+<img width="400" src="https://george-chou.github.io/covers/(Q)Sharer/sharer.PNG"/>
 
 ## Download ##
 
