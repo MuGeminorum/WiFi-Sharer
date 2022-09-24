@@ -9,7 +9,7 @@ Software of Wi-Fi hotspot for Windows laptops, we also have Qt version:
 
 The software of Wi-Fi hotspot for Windows laptops
 
-<img width="400" src="https://george-chou.github.io/covers/(Q)Sharer/sharer.PNG"/>
+<img width="400" src="https://picrepo.netlify.app/Sharer/cover.png"/>
 
 ## Download ##
 
