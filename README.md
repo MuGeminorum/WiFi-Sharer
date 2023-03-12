@@ -1,6 +1,6 @@
 # Sharer
 
-Software of Wi-Fi hotspot for Windows laptops, we also have Qt version:
+Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/george-chou/QSharer)
 
 [![license](https://img.shields.io/github/license/george-chou/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 [![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/Sharer.svg)](https://ci.appveyor.com/project/george-chou/Sharer)
