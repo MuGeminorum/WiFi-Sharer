@@ -1,11 +1,11 @@
 # Sharer
 
-Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/george-chou/QSharer)
+Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGeminorum/QSharer)
 
-[![license](https://img.shields.io/github/license/george-chou/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/Sharer.svg)](https://ci.appveyor.com/project/george-chou/Sharer)
-[![CI](https://github.com/george-chou/Sharer/workflows/CI/badge.svg)](https://github.com/george-chou/Sharer/actions)
-[![Github All Releases](https://img.shields.io/github/downloads-pre/george-chou/Sharer/v2.1/total)](https://github.com/george-chou/Sharer/releases)
+[![license](https://img.shields.io/github/license/MuGeminorum/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/Sharer)
+[![CI](https://github.com/MuGeminorum/Sharer/workflows/CI/badge.svg)](https://github.com/MuGeminorum/Sharer/actions)
+[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/Sharer/v2.1/total)](https://github.com/MuGeminorum/Sharer/releases)
 
 The software of Wi-Fi hotspot for Windows laptops
 
@@ -13,7 +13,7 @@ The software of Wi-Fi hotspot for Windows laptops
 
 ## Download ##
 
-Download available at <https://github.com/george-chou/Sharer/releases>;
+Download available at <https://github.com/MuGeminorum/Sharer/releases>;
 
 ## Usage ##
 
@@ -31,7 +31,7 @@ Download available at <https://github.com/george-chou/Sharer/releases>;
 
 ![enter image description here](http://www.gnu.org/graphics/lgplv3-147x51.png)
 
-[Flat icon set](https://github.com/george-chou/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/);
+[Flat icon set](https://github.com/MuGeminorum/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/);
 
 _Sharer_ project uses source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/), which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
