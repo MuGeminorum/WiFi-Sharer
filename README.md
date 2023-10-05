@@ -3,7 +3,6 @@
 Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGeminorum/WiFi-Sharer/tree/qt)
 
 [![license](https://img.shields.io/github/license/MuGeminorum/WiFi-Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/WiFi-Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/WiFi-Sharer)
 [![CI](https://github.com/MuGeminorum/WiFi-Sharer/workflows/CI/badge.svg)](https://github.com/MuGeminorum/WiFi-Sharer/actions)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/WiFi-Sharer/v2.1/total)](https://github.com/MuGeminorum/WiFi-Sharer/releases)
 
