@@ -2,10 +2,10 @@
 
 Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGeminorum/WiFi-Sharer/tree/qt)
 
-[![license](https://img.shields.io/github/license/MuGeminorum/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/Sharer)
-[![CI](https://github.com/MuGeminorum/Sharer/workflows/CI/badge.svg)](https://github.com/MuGeminorum/Sharer/actions)
-[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/Sharer/v2.1/total)](https://github.com/MuGeminorum/Sharer/releases)
+[![license](https://img.shields.io/github/license/MuGeminorum/WiFi-Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/WiFi-Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/WiFi-Sharer)
+[![CI](https://github.com/MuGeminorum/WiFi-Sharer/workflows/CI/badge.svg)](https://github.com/MuGeminorum/WiFi-Sharer/actions)
+[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/WiFi-Sharer/v2.1/total)](https://github.com/MuGeminorum/WiFi-Sharer/releases)
 
 The software of Wi-Fi hotspot for Windows laptops
 
@@ -13,7 +13,7 @@ The software of Wi-Fi hotspot for Windows laptops
 
 ## Download ##
 
-Download available at <https://github.com/MuGeminorum/Sharer/releases>;
+Download available at <https://github.com/MuGeminorum/WiFi-Sharer/releases>;
 
 ## Usage ##
 
@@ -31,7 +31,7 @@ Download available at <https://github.com/MuGeminorum/Sharer/releases>;
 
 ![enter image description here](http://www.gnu.org/graphics/lgplv3-147x51.png)
 
-[Flat icon set](https://github.com/MuGeminorum/Sharer/tree/master/Sharer/Resources) from [easyicon](https://www.easyicon.net/);
+[Flat icon set](https://github.com/MuGeminorum/WiFi-Sharer/tree/master/WiFi-Sharer/Resources) from [easyicon](https://www.easyicon.net/);
 
 _Sharer_ project uses source codes from [Microsoft All-In-One Code Framework](http://blogs.msdn.com/b/onecode/), which is licensed by [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
