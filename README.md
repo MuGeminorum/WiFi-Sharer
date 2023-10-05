@@ -1,16 +1,16 @@
-# QSharer
+# WiFi-Sharer
 
-[![license](https://img.shields.io/github/license/MuGeminorum/QSharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/QSharer.svg)](https://ci.appveyor.com/project/MuGeminorum/QSharer)
-[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/QSharer/v1.1/total)](https://github.com/MuGeminorum/QSharer/releases)
+[![license](https://img.shields.io/github/license/MuGeminorum/WiFi-Sharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/WiFi-Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/WiFi-Sharer)
+[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/WiFi-Sharer/v1.1/total)](https://github.com/MuGeminorum/WiFi-Sharer/releases)
 
-Qt(C++) version of [Sharer](https://github.com/MuGeminorum/Sharer)
+Qt(C++) version of [Sharer](https://github.com/MuGeminorum/WiFi-Sharer)
 
 <img width="500" src="https://user-images.githubusercontent.com/20459298/233094268-e0e3f845-912f-479f-a01a-f749cba6b057.png" />
 
 ## Code download
 ```
-git clone https://github.com/MuGeminorum/QSharer.git
+git clone -b qt https://github.com/MuGeminorum/WiFi-Sharer.git
 ```
 
 ## Environment installation, configuration & code debugging, release
