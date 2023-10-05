@@ -1,6 +1,6 @@
 # Sharer
 
-Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGeminorum/QSharer)
+Software of Wi-Fi hotspot for Windows laptops, we also have Qt version called [QSharer](https://github.com/MuGeminorum/WiFi-Sharer/tree/qt)
 
 [![license](https://img.shields.io/github/license/MuGeminorum/Sharer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 [![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/Sharer)
@@ -23,7 +23,7 @@ Download available at <https://github.com/MuGeminorum/Sharer/releases>;
 ## Build ##
 
  1. Clone the repo by Git;
- 2. Install Microsoft Visual Studio 2010 / 2013;
+ 2. Install Microsoft Visual Studio 2010 / 2013 / 2015;
  3. Open _Sharer.sln_ as admin;
  4. Perform Build action.
 
