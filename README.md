@@ -1,4 +1,4 @@
-# WiFi-Sharer
+# Sharer
 
 [![license](https://img.shields.io/github/license/MuGeminorum/WiFi-Sharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/WiFi-Sharer.svg)](https://ci.appveyor.com/project/MuGeminorum/WiFi-Sharer)
