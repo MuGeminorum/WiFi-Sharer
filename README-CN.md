@@ -4,22 +4,20 @@
 [![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/QSharer.svg)](https://ci.appveyor.com/project/MuGeminorum/QSharer)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/QSharer/v1.1/total)](https://github.com/MuGeminorum/QSharer/releases)
 
-Qt(C++) version of [Sharer](https://github.com/MuGeminorum/Sharer)
+项目 [Sharer](https://github.com/MuGeminorum/Sharer) 的 Qt(C++) 版本
 
 <img width="500" src="https://user-images.githubusercontent.com/20459298/233094268-e0e3f845-912f-479f-a01a-f749cba6b057.png" />
 
-## Code download
+## 代码下载
 ```
 git clone https://github.com/MuGeminorum/QSharer.git
 ```
 
-## Environment installation, configuration & code debugging, release
-Please refer to this [blog post](https://www.cnblogs.com/MuGeminorum/p/17017063.html) for this section.
+## 环境安装配置及代码调试发布
+此部分内容请统一参考此[博文](https://www.cnblogs.com/MuGeminorum/p/17017055.html)
 
-## License
+## 许可证
 
-![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-All source codes are licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
-
-If you want to make any modification on these source codes while keeping new codes unprotected by GPL-3.0, please contact me for a sublicense instead.
+<a href="https://opensource.org/licenses/GPL-3.0" target="_blank">
+    <img src="https://www.gnu.org/graphics/gplv3-127x51.png" />
+</a>
