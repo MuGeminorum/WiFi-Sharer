@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/MuGeminorum/WiFi-Sharer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Build status](https://ci.appveyor.com/api/projects/status/soduqye3dylqgaar/branch/qt?svg=true)](https://ci.appveyor.com/project/MuGeminorum/wifi-sharer/branch/qt)
-[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/WiFi-Sharer/v1.1/total)](https://github.com/MuGeminorum/WiFi-Sharer/releases)
+[![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/WiFi-Sharer/v1.1/total)](https://github.com/MuGeminorum/WiFi-Sharer/releases/tag/v1.1)
 
 Qt(C++) version of [Sharer](https://github.com/MuGeminorum/WiFi-Sharer)
 
