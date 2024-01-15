@@ -123,3 +123,4 @@ qsharer/Debug/*
 Release/*
 Debug/*
 .vs/*
+rename.sh
