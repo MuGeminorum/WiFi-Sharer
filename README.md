@@ -11,7 +11,7 @@ Qt(C++) version of [Sharer](https://github.com/Genius-Society/wifi_sharer)
 
 ## 代码下载 Code download
 ```bash
-git clone -b qt https://github.com/Genius-Society/wifi_sharer.git
+git clone -b qt git@github.com:Genius-Society/wifi_sharer.git
 cd wifi_sharer
 ```
 
