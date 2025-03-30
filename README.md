@@ -1,7 +1,7 @@
 # QSharer
 [![license](https://img.shields.io/github/license/Genius-Society/wifi_sharer.svg)](https://github.com/Genius-Society/wifi_sharer/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/soduqye3dylqgaar/branch/qt?svg=true)](https://ci.appveyor.com/project/Genius-Society/wifi_sharer/branch/qt)
-[![sourceforge](https://img.shields.io/badge/sourceforge-QSharer-ff6600.svg)](https://sourceforge.net/projects/wifi-sharer/files)
+[![sf](https://img.shields.io/badge/release-SourceForge-ff6600.svg)](https://sourceforge.net/projects/wifi-sharer/files)
 
 项目 [Sharer](https://github.com/Genius-Society/wifi_sharer) 的 Qt(C++) 版本
 
