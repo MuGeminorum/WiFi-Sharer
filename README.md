@@ -1,7 +1,7 @@
 # Sharer
 [![license](https://img.shields.io/github/license/Genius-Society/wifi_sharer.svg)](https://github.com/Genius-Society/wifi_sharer/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/7i1h18cu4ooo9rl5/branch/main?svg=true)](https://ci.appveyor.com/project/Genius-Society/wifi_sharer-nfc5o/branch/main)
-[![sourceforge](https://img.shields.io/badge/release-SourceForge-ff6600.svg)](https://sourceforge.net/projects/wifi-sharer/files)
+[![sf](https://img.shields.io/badge/release-SourceForge-ff6600.svg)](https://sourceforge.net/projects/wifi-sharer/files)
 
 本软件能将 Windows 7-10 笔记本变成 WiFi 热点，我们还有个 C++ Qt 的版本被称为 [QSharer](https://github.com/Genius-Society/wifi_sharer/tree/qt)
 
